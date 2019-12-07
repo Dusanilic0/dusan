@@ -1,0 +1,7 @@
+#include<iostream>
+#include<stdio.h>
+using namespace std;
+vodi main() {
+int a,b,c;
+cout << "Upisati broj 1: ";
+cin >> a;
